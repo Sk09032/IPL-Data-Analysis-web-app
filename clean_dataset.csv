@@ -1,0 +1,1029 @@
+id,season,city,match_type,player_of_match,team1,team2,winner,result_margin,target_runs,super_over
+1,2007,Bangalore,League,BB McCullum,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,140,223,N
+2,2007,Chandigarh,League,MEK Hussey,Punjab Kings,Chennai Super Kings,Chennai Super Kings,33,241,N
+3,2007,Delhi,League,MF Maharoof,Delhi Capitals,Rajasthan Royals,Delhi Capitals,9,130,N
+4,2007,Mumbai,League,MV Boucher,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,5,166,N
+5,2007,Kolkata,League,DJ Hussey,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,5,111,N
+6,2007,Jaipur,League,SR Watson,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6,167,N
+7,2007,Hyderabad,League,V Sehwag,Deccan Chargers,Delhi Capitals,Delhi Capitals,9,143,N
+8,2007,Chennai,League,ML Hayden,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6,209,N
+9,2007,Hyderabad,League,YK Pathan,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,3,215,N
+10,2007,Chandigarh,League,KC Sangakkara,Punjab Kings,Mumbai Indians,Punjab Kings,66,183,N
+11,2007,Bangalore,League,SR Watson,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7,136,N
+12,2007,Chennai,League,JDP Oram,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9,148,N
+13,2007,Mumbai,League,AC Gilchrist,Mumbai Indians,Deccan Chargers,Deccan Chargers,10,155,N
+14,2007,Chandigarh,League,SM Katich,Punjab Kings,Delhi Capitals,Punjab Kings,4,159,N
+15,2007,Bangalore,League,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,13,179,N
+16,2007,Kolkata,League,ST Jayasuriya,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,7,138,N
+17,2007,Delhi,League,GD McGrath,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,10,192,N
+18,2007,Hyderabad,League,SE Marsh,Deccan Chargers,Punjab Kings,Punjab Kings,7,165,N
+19,2007,Jaipur,League,SA Asnodkar,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,45,197,N
+20,2007,Chennai,League,V Sehwag,Chennai Super Kings,Delhi Capitals,Delhi Capitals,8,170,N
+21,2007,Chandigarh,League,IK Pathan,Punjab Kings,Kolkata Knight Riders,Punjab Kings,9,179,N
+22,2007,Bangalore,League,P Kumar,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,3,157,N
+23,2007,Mumbai,League,SM Pollock,Mumbai Indians,Delhi Capitals,Mumbai Indians,29,163,N
+24,2007,Jaipur,League,Sohail Tanvir,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8,110,N
+25,2007,Bangalore,League,S Sreesanth,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,6,127,N
+26,2007,Chennai,League,AC Gilchrist,Chennai Super Kings,Deccan Chargers,Deccan Chargers,7,145,N
+27,2007,Mumbai,League,A Nehra,Mumbai Indians,Rajasthan Royals,Mumbai Indians,7,104,N
+28,2007,Delhi,League,MS Dhoni,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,4,188,N
+29,2007,Kolkata,League,SC Ganguly,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5,130,N
+30,2007,Jaipur,League,YK Pathan,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,8,141,N
+31,2007,Chennai,League,L Balaji,Chennai Super Kings,Punjab Kings,Chennai Super Kings,18,182,N
+32,2007,Hyderabad,League,SC Ganguly,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,23,205,N
+33,2007,Jaipur,League,SR Watson,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,3,157,N
+34,2007,Chandigarh,League,SE Marsh,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,9,144,N
+35,2007,Kolkata,League,Shoaib Akhtar,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,23,134,N
+36,2007,Mumbai,League,ST Jayasuriya,Mumbai Indians,Chennai Super Kings,Mumbai Indians,9,157,N
+37,2007,Delhi,League,A Mishra,Delhi Capitals,Deccan Chargers,Delhi Capitals,12,195,N
+38,2007,Mumbai,League,SM Pollock,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,8,68,N
+39,2007,Delhi,League,DPMD Jayawardene,Delhi Capitals,Punjab Kings,Punjab Kings,6,89,N
+40,2007,Jaipur,League,GC Smith,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,65,198,N
+41,2007,Hyderabad,League,DJ Bravo,Deccan Chargers,Mumbai Indians,Mumbai Indians,25,179,N
+42,2007,Kolkata,League,M Ntini,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,3,53,N
+43,2007,Bangalore,League,SP Goswami,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,5,155,N
+44,2007,Kolkata,League,YK Pathan,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,6,148,N
+45,2007,Mumbai,League,SE Marsh,Mumbai Indians,Punjab Kings,Punjab Kings,1,190,N
+46,2007,Chennai,League,A Kumble,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,14,127,N
+47,2007,Chandigarh,League,SE Marsh,Punjab Kings,Deccan Chargers,Punjab Kings,6,176,N
+48,2007,Delhi,League,KD Karthik,Delhi Capitals,Mumbai Indians,Delhi Capitals,5,177,N
+49,2007,Chennai,League,JA Morkel,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,10,212,N
+50,2007,Hyderabad,League,R Vinay Kumar,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,5,166,N
+51,2007,Kolkata,League,Umar Gul,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3,175,N
+52,2007,Jaipur,League,Sohail Tanvir,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,5,146,N
+53,2007,Hyderabad,League,SK Raina,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,7,148,N
+54,2007,Bangalore,League,CRD Fernando,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9,123,N
+55,2007,Chandigarh,League,SE Marsh,Punjab Kings,Rajasthan Royals,Punjab Kings,41,222,N
+56,2007,Mumbai,Semi Final,SR Watson,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,105,193,N
+57,2007,Mumbai,Semi Final,M Ntini,Chennai Super Kings,Punjab Kings,Chennai Super Kings,9,113,N
+58,2007,Mumbai,Final,YK Pathan,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,3,164,N
+59,2009,Cape Town,League,SR Tendulkar,Chennai Super Kings,Mumbai Indians,Mumbai Indians,19,166,N
+60,2009,Cape Town,League,R Dravid,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,75,134,N
+61,2009,Cape Town,League,DL Vettori,Delhi Capitals,Punjab Kings,Delhi Capitals,10,54,N
+62,2009,Cape Town,League,RP Singh,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,8,102,N
+63,2009,Port Elizabeth,League,M Muralitharan,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,92,180,N
+64,2009,Durban,League,CH Gayle,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,11,69,N
+65,2009,Cape Town,League,AC Gilchrist,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,24,185,N
+66,2009,Durban,League,AB de Villiers,Chennai Super Kings,Delhi Capitals,Delhi Capitals,9,190,N
+67,2009,Durban,League,RS Bopara,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7,169,N
+68,2009,Durban,League,PP Ojha,Deccan Chargers,Mumbai Indians,Deccan Chargers,12,169,N
+69,2009,Port Elizabeth,League,TM Dilshan,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6,150,N
+70,2009,Cape Town,League,KC Sangakkara,Punjab Kings,Rajasthan Royals,Punjab Kings,27,140,N
+71,2009,Durban,League,HH Gibbs,Chennai Super Kings,Deccan Chargers,Deccan Chargers,6,166,N
+72,2009,Port Elizabeth,League,SR Tendulkar,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,92,188,N
+73,2009,Centurion,League,YK Pathan,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5,144,N
+74,2009,Durban,League,MV Boucher,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,5,140,N
+75,2009,Durban,League,KC Sangakkara,Punjab Kings,Mumbai Indians,Punjab Kings,3,120,N
+76,2009,Centurion,League,DP Nannes,Deccan Chargers,Delhi Capitals,Delhi Capitals,6,149,N
+77,2009,Centurion,League,SK Raina,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,38,165,N
+78,2009,East London,League,JP Duminy,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,149,N
+79,2009,Durban,League,Yuvraj Singh,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8,146,N
+80,2009,Port Elizabeth,League,YK Pathan,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,3,142,N
+81,2009,Johannesburg,League,SB Jakati,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18,164,N
+82,2009,Port Elizabeth,League,DPMD Jayawardene,Punjab Kings,Kolkata Knight Riders,Punjab Kings,6,154,N
+83,2009,Johannesburg,League,JH Kallis,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,9,150,N
+84,2009,East London,League,MS Dhoni,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,78,179,N
+85,2009,Durban,League,GC Smith,Punjab Kings,Rajasthan Royals,Rajasthan Royals,78,212,N
+86,2009,Durban,League,G Gambhir,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,9,155,N
+87,2009,Centurion,League,RG Sharma,Deccan Chargers,Mumbai Indians,Deccan Chargers,19,146,N
+88,2009,Centurion,League,A Singh,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7,106,N
+89,2009,Centurion,League,ML Hayden,Chennai Super Kings,Punjab Kings,Chennai Super Kings,12,187,N
+90,2009,East London,League,A Nehra,Delhi Capitals,Mumbai Indians,Delhi Capitals,7,117,N
+91,2009,Kimberley,League,DPMD Jayawardene,Deccan Chargers,Punjab Kings,Punjab Kings,3,169,N
+92,2009,Kimberley,League,S Badrinath,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7,141,N
+93,2009,Port Elizabeth,League,JP Duminy,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,16,158,N
+94,2009,Johannesburg,League,A Mishra,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7,124,N
+95,2009,Kimberley,League,DR Smith,Deccan Chargers,Rajasthan Royals,Deccan Chargers,53,167,N
+96,2009,Centurion,League,LRPL Taylor,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,6,174,N
+97,2009,Centurion,League,Harbhajan Singh,Punjab Kings,Mumbai Indians,Mumbai Indians,8,120,N
+98,2009,Durban,League,R Bhatia,Deccan Chargers,Delhi Capitals,Delhi Capitals,12,174,N
+99,2009,Durban,League,LRPL Taylor,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2,130,N
+100,2009,Durban,League,SK Warne,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2,146,N
+101,2009,Bloemfontein,League,B Lee,Delhi Capitals,Punjab Kings,Punjab Kings,6,121,N
+102,2009,Port Elizabeth,League,ML Hayden,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7,148,N
+103,2009,Johannesburg,League,RG Sharma,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,6,161,N
+104,2009,Johannesburg,League,Yuvraj Singh,Deccan Chargers,Punjab Kings,Punjab Kings,1,135,N
+105,2009,Bloemfontein,League,AB de Villiers,Delhi Capitals,Rajasthan Royals,Delhi Capitals,14,151,N
+106,2009,Centurion,League,BJ Hodge,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,7,189,N
+107,2009,Johannesburg,League,JH Kallis,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,7,135,N
+108,2009,Durban,League,LR Shukla,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,4,102,N
+109,2009,Durban,League,M Muralitharan,Chennai Super Kings,Punjab Kings,Chennai Super Kings,24,117,N
+110,2009,Centurion,League,V Sehwag,Delhi Capitals,Mumbai Indians,Delhi Capitals,4,166,N
+111,2009,Centurion,League,MK Pandey,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,12,171,N
+112,2009,Centurion,Semi Final,AC Gilchrist,Delhi Capitals,Deccan Chargers,Deccan Chargers,6,154,N
+113,2009,Johannesburg,Semi Final,MK Pandey,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,6,147,N
+114,2009,Johannesburg,Final,A Kumble,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,6,144,N
+115,2009,Mumbai,League,AD Mathews,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,11,162,N
+116,2009,Mumbai,League,YK Pathan,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4,213,N
+117,2009,Chandigarh,League,G Gambhir,Punjab Kings,Delhi Capitals,Delhi Capitals,5,143,N
+118,2009,Kolkata,League,MK Tiwary,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,7,136,N
+119,2009,Chennai,League,WPUJC Vaas,Chennai Super Kings,Deccan Chargers,Deccan Chargers,31,191,N
+120,2009,Ahmedabad,League,V Sehwag,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6,142,N
+121,2009,Bangalore,League,JH Kallis,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8,204,N
+122,2009,Kolkata,League,MS Dhoni,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,55,165,N
+123,2009,Delhi,League,SR Tendulkar,Delhi Capitals,Mumbai Indians,Mumbai Indians,98,219,N
+124,2009,Bangalore,League,JH Kallis,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,10,93,N
+125,2009,Delhi,League,ML Hayden,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,5,186,N
+126,2009,Cuttack,League,A Symonds,Deccan Chargers,Punjab Kings,Deccan Chargers,6,171,N
+127,2009,Ahmedabad,League,AA Jhunjhunwala,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,34,169,N
+128,2009,Mumbai,League,JH Kallis,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,7,152,N
+129,2009,Cuttack,League,A Symonds,Deccan Chargers,Delhi Capitals,Deccan Chargers,10,172,N
+130,2009,Mumbai,League,SR Tendulkar,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,7,156,N
+131,2009,Bangalore,League,RV Uthappa,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,36,172,N
+132,2009,Chandigarh,League,AC Voges,Punjab Kings,Rajasthan Royals,Rajasthan Royals,31,184,N
+133,2009,Mumbai,League,SR Tendulkar,Chennai Super Kings,Mumbai Indians,Mumbai Indians,5,181,N
+134,2009,Bangalore,League,KM Jadhav,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,17,184,N
+135,2009,Ahmedabad,League,YK Pathan,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,8,149,N
+136,2009,Chandigarh,League,MK Tiwary,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,39,184,N
+137,2009,Ahmedabad,League,NV Ojha,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,17,178,N
+138,2009,Mumbai,League,Harbhajan Singh,Deccan Chargers,Mumbai Indians,Mumbai Indians,41,173,N
+139,2009,Delhi,League,DA Warner,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,40,178,N
+140,2009,Mumbai,League,SL Malinga,Mumbai Indians,Punjab Kings,Mumbai Indians,4,164,N
+141,2009,Chennai,League,M Vijay,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5,162,N
+142,2009,Delhi,League,KD Karthik,Delhi Capitals,Rajasthan Royals,Delhi Capitals,67,189,N
+143,2009,Kolkata,League,SC Ganguly,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,24,182,N
+144,2009,Chandigarh,League,KP Pietersen,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,6,182,N
+145,2009,Chennai,League,M Vijay,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,23,247,N
+146,2009,Mumbai,League,AT Rayudu,Mumbai Indians,Deccan Chargers,Mumbai Indians,63,179,N
+147,2009,Kolkata,League,DPMD Jayawardene,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8,201,N
+148,2009,Delhi,League,PD Collingwood,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,37,185,N
+149,2009,Nagpur,League,SK Warne,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2,160,N
+150,2009,Chennai,League,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,24,166,N
+151,2009,Jaipur,League,MJ Lumb,Rajasthan Royals,Punjab Kings,Rajasthan Royals,9,154,N
+152,2009,Kolkata,League,SC Ganguly,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,14,182,N
+153,2009,Bangalore,League,TL Suman,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,7,185,N
+154,2009,Chandigarh,League,KC Sangakkara,Punjab Kings,Mumbai Indians,Punjab Kings,6,155,N
+155,2009,Nagpur,League,RJ Harris,Deccan Chargers,Chennai Super Kings,Deccan Chargers,6,139,N
+156,2009,Bangalore,League,R Vinay Kumar,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7,161,N
+157,2009,Delhi,League,PP Chawla,Delhi Capitals,Punjab Kings,Punjab Kings,7,112,N
+158,2009,Jaipur,League,SR Tendulkar,Rajasthan Royals,Mumbai Indians,Mumbai Indians,37,175,N
+159,2009,Nagpur,League,Harmeet Singh,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,13,152,N
+160,2009,Mumbai,League,KA Pollard,Mumbai Indians,Delhi Capitals,Mumbai Indians,39,184,N
+161,2009,Chennai,League,R Ashwin,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9,140,N
+162,2009,Jaipur,League,KP Pietersen,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,5,131,N
+163,2009,Chennai,League,G Gambhir,Chennai Super Kings,Delhi Capitals,Delhi Capitals,6,113,N
+164,2009,Dharamsala,League,RG Sharma,Punjab Kings,Deccan Chargers,Deccan Chargers,5,175,N
+165,2009,Bangalore,League,R McLaren,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,57,192,N
+166,2009,Kolkata,League,JD Unadkat,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8,133,N
+167,2009,Dharamsala,League,MS Dhoni,Punjab Kings,Chennai Super Kings,Chennai Super Kings,6,193,N
+168,2009,Delhi,League,A Symonds,Delhi Capitals,Deccan Chargers,Deccan Chargers,11,146,N
+169,2009,Kolkata,League,M Kartik,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,9,134,N
+170,2009,Mumbai,Semi Final,KA Pollard,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,35,185,N
+171,2009,Mumbai,Semi Final,DE Bollinger,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,38,143,N
+172,2009,Mumbai,3rd Place Play-Off,A Kumble,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,9,83,N
+173,2009,Mumbai,Final,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,22,169,N
+174,2011,Chennai,League,S Anirudha,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,154,N
+175,2011,Hyderabad,League,SK Trivedi,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,8,138,N
+176,2011,Kochi,League,AB de Villiers,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,6,162,N
+177,2011,Delhi,League,SL Malinga,Delhi Capitals,Mumbai Indians,Mumbai Indians,8,96,N
+178,2011,Mumbai,League,SB Wagh,Pune Warriors,Punjab Kings,Pune Warriors,7,113,N
+179,2011,Kolkata,League,JH Kallis,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,9,164,N
+180,2011,Jaipur,League,SK Warne,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,6,152,N
+181,2011,Bangalore,League,SR Tendulkar,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9,141,N
+182,2011,Chandigarh,League,PC Valthaty,Punjab Kings,Chennai Super Kings,Punjab Kings,6,189,N
+183,2011,Mumbai,League,MD Mishra,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,4,149,N
+184,2011,Hyderabad,League,DW Steyn,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,33,176,N
+185,2011,Jaipur,League,G Gambhir,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,9,160,N
+186,2011,Mumbai,League,BB McCullum,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,8,183,N
+187,2011,Chennai,League,MEK Hussey,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,21,184,N
+188,2011,Hyderabad,League,PC Valthaty,Deccan Chargers,Punjab Kings,Punjab Kings,8,166,N
+189,2011,Mumbai,League,Yuvraj Singh,Pune Warriors,Delhi Capitals,Delhi Capitals,3,188,N
+190,2011,Kolkata,League,L Balaji,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8,82,N
+191,2011,Kochi,League,BB McCullum,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,7,135,N
+192,2011,Delhi,League,S Sohal,Delhi Capitals,Deccan Chargers,Deccan Chargers,16,169,N
+193,2011,Mumbai,League,MM Patel,Mumbai Indians,Pune Warriors,Mumbai Indians,7,119,N
+194,2011,Kolkata,League,DPMD Jayawardene,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,6,133,N
+195,2011,Chandigarh,League,SE Marsh,Punjab Kings,Rajasthan Royals,Punjab Kings,48,196,N
+196,2011,Mumbai,League,Harbhajan Singh,Mumbai Indians,Chennai Super Kings,Mumbai Indians,8,165,N
+197,2011,Kolkata,League,CH Gayle,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9,172,N
+198,2011,Delhi,League,DA Warner,Delhi Capitals,Punjab Kings,Delhi Capitals,29,232,N
+199,2011,Hyderabad,League,SL Malinga,Deccan Chargers,Mumbai Indians,Mumbai Indians,37,173,N
+200,2011,Jaipur,League,SK Warne,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,8,110,N
+201,2011,Chennai,League,MEK Hussey,Chennai Super Kings,Pune Warriors,Chennai Super Kings,25,143,N
+202,2011,Delhi,League,V Kohli,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,3,161,N
+203,2011,Mumbai,League,DE Bollinger,Pune Warriors,Chennai Super Kings,Chennai Super Kings,8,142,N
+204,2011,Kochi,League,I Sharma,Kochi Tuskers Kerala,Deccan Chargers,Deccan Chargers,55,130,N
+205,2011,Delhi,League,MK Tiwary,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,17,149,N
+206,2011,Jaipur,League,J Botha,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7,95,N
+207,2011,Bangalore,League,V Kohli,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,26,182,N
+208,2011,Kochi,League,V Sehwag,Kochi Tuskers Kerala,Delhi Capitals,Delhi Capitals,38,158,N
+209,2011,Kolkata,League,Iqbal Abdulla,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8,120,N
+210,2011,Jaipur,League,LRPL Taylor,Rajasthan Royals,Pune Warriors,Rajasthan Royals,6,144,N
+211,2011,Chennai,League,JA Morkel,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,19,166,N
+212,2011,Mumbai,League,KA Pollard,Mumbai Indians,Punjab Kings,Mumbai Indians,23,160,N
+213,2011,Delhi,League,P Parameswaran,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,7,141,N
+214,2011,Hyderabad,League,YK Pathan,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,20,170,N
+215,2011,Chennai,League,MEK Hussey,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8,148,N
+216,2011,Mumbai,League,R Sharma,Pune Warriors,Mumbai Indians,Mumbai Indians,21,161,N
+217,2011,Kochi,League,BJ Hodge,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,17,157,N
+218,2011,Hyderabad,League,V Sehwag,Deccan Chargers,Delhi Capitals,Delhi Capitals,4,176,N
+219,2011,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,85,206,N
+220,2011,Kolkata,League,Iqbal Abdulla,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10,52,N
+221,2011,Mumbai,League,AT Rayudu,Mumbai Indians,Delhi Capitals,Mumbai Indians,32,179,N
+222,2011,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,9,126,N
+223,2011,Chandigarh,League,R Sharma,Punjab Kings,Pune Warriors,Pune Warriors,5,120,N
+224,2011,Jaipur,League,M Vijay,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,63,197,N
+225,2011,Hyderabad,League,MR Marsh,Deccan Chargers,Pune Warriors,Pune Warriors,6,137,N
+226,2011,Chandigarh,League,BA Bhatt,Punjab Kings,Mumbai Indians,Punjab Kings,76,164,N
+227,2011,Jaipur,League,S Aravind,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9,147,N
+228,2011,Chennai,League,MS Dhoni,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18,177,N
+229,2011,Indore,League,KD Karthik,Kochi Tuskers Kerala,Punjab Kings,Punjab Kings,6,179,N
+230,2011,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,4,102,N
+231,2011,Mumbai,League,A Mishra,Mumbai Indians,Deccan Chargers,Deccan Chargers,10,136,N
+232,2011,Dharamsala,League,PP Chawla,Punjab Kings,Delhi Capitals,Punjab Kings,29,171,N
+233,2011,Indore,League,BJ Hodge,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,8,98,N
+234,2011,Mumbai,League,A Mishra,Pune Warriors,Deccan Chargers,Deccan Chargers,6,137,N
+235,2011,Dharamsala,League,AC Gilchrist,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,111,233,N
+236,2011,Chennai,League,WP Saha,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,11,153,N
+237,2011,Mumbai,League,YK Pathan,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,7,119,N
+238,2011,Mumbai,League,SR Watson,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,10,134,N
+239,2011,Dharamsala,League,S Dhawan,Punjab Kings,Deccan Chargers,Deccan Chargers,82,199,N
+240,2011,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,8,129,N
+241,2011,Kolkata,League,JEC Franklin,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5,176,N
+242,2011,Mumbai,Qualifier 1,SK Raina,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6,176,N
+243,2011,Mumbai,Elimination Final,MM Patel,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,4,148,N
+244,2011,Chennai,Qualifier 2,CH Gayle,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,43,186,N
+245,2011,Chennai,Final,M Vijay,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,58,206,N
+246,2012,Chennai,League,RE Levi,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8,113,N
+247,2012,Kolkata,League,IK Pathan,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,8,98,N
+248,2012,Mumbai,League,SPD Smith,Mumbai Indians,Pune Warriors,Pune Warriors,28,130,N
+249,2012,Jaipur,League,AM Rahane,Rajasthan Royals,Punjab Kings,Rajasthan Royals,31,192,N
+250,2012,Bangalore,League,AB de Villiers,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,20,158,N
+251,2012,Visakhapatnam,League,RA Jadeja,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,74,194,N
+252,2012,Jaipur,League,BJ Hodge,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,22,165,N
+253,2012,Pune,League,MN Samuels,Pune Warriors,Punjab Kings,Pune Warriors,22,167,N
+254,2012,Visakhapatnam,League,RG Sharma,Deccan Chargers,Mumbai Indians,Mumbai Indians,5,139,N
+255,2012,Bangalore,League,L Balaji,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,42,166,N
+256,2012,Delhi,League,M Morkel,Delhi Capitals,Chennai Super Kings,Delhi Capitals,8,111,N
+257,2012,Mumbai,League,KA Pollard,Mumbai Indians,Rajasthan Royals,Mumbai Indians,27,198,N
+258,2012,Chennai,League,F du Plessis,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5,206,N
+259,2012,Chandigarh,League,AD Mascarenhas,Punjab Kings,Pune Warriors,Punjab Kings,7,116,N
+260,2012,Kolkata,League,Shakib Al Hasan,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,5,132,N
+261,2012,Pune,League,JD Ryder,Pune Warriors,Chennai Super Kings,Pune Warriors,7,156,N
+262,2012,Kolkata,League,SP Narine,Kolkata Knight Riders,Punjab Kings,Punjab Kings,2,135,N
+263,2012,Bangalore,League,AM Rahane,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,59,196,N
+264,2012,Mumbai,League,S Nadeem,Mumbai Indians,Delhi Capitals,Delhi Capitals,7,93,N
+265,2012,Jaipur,League,BJ Hodge,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,5,197,N
+266,2012,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,6,183,N
+267,2012,Chandigarh,League,G Gambhir,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,8,125,N
+268,2012,Delhi,League,KP Pietersen,Delhi Capitals,Deccan Chargers,Delhi Capitals,5,158,N
+269,2012,Chennai,League,KMDN Kulasekara,Chennai Super Kings,Pune Warriors,Chennai Super Kings,13,165,N
+270,2012,Chandigarh,League,CH Gayle,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5,164,N
+271,2012,Chennai,League,F du Plessis,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7,147,N
+272,2012,Delhi,League,SC Ganguly,Delhi Capitals,Pune Warriors,Pune Warriors,20,193,N
+273,2012,Mumbai,League,SE Marsh,Mumbai Indians,Punjab Kings,Punjab Kings,6,164,N
+274,2012,Cuttack,League,B Lee,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,5,127,N
+275,2012,Jaipur,League,AB de Villiers,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,46,190,N
+276,2012,Pune,League,V Sehwag,Pune Warriors,Delhi Capitals,Delhi Capitals,8,147,N
+277,2012,Chandigarh,League,AT Rayudu,Punjab Kings,Mumbai Indians,Mumbai Indians,4,169,N
+278,2012,Pune,League,CL White,Pune Warriors,Deccan Chargers,Deccan Chargers,18,178,N
+279,2012,Delhi,League,V Sehwag,Delhi Capitals,Mumbai Indians,Delhi Capitals,37,208,N
+280,2012,Chennai,League,Mandeep Singh,Chennai Super Kings,Punjab Kings,Punjab Kings,7,157,N
+281,2012,Kolkata,League,G Gambhir,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,47,191,N
+282,2012,Delhi,League,V Sehwag,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,153,N
+283,2012,Mumbai,League,DW Steyn,Mumbai Indians,Deccan Chargers,Mumbai Indians,5,101,N
+284,2012,Chennai,League,G Gambhir,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,5,140,N
+285,2012,Cuttack,League,KC Sangakkara,Deccan Chargers,Pune Warriors,Deccan Chargers,13,187,N
+286,2012,Jaipur,League,P Negi,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6,142,N
+287,2012,Bangalore,League,Azhar Mahmood,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,4,159,N
+288,2012,Pune,League,SL Malinga,Pune Warriors,Mumbai Indians,Mumbai Indians,1,121,N
+289,2012,Chennai,League,SK Raina,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,10,161,N
+290,2012,Kolkata,League,SP Narine,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,7,151,N
+291,2012,Chandigarh,League,SR Watson,Punjab Kings,Rajasthan Royals,Rajasthan Royals,43,178,N
+292,2012,Mumbai,League,DR Smith,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,174,N
+293,2012,Bangalore,League,AB de Villiers,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,5,182,N
+294,2012,Delhi,League,JH Kallis,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6,154,N
+295,2012,Pune,League,SR Watson,Pune Warriors,Rajasthan Royals,Rajasthan Royals,7,126,N
+296,2012,Hyderabad,League,Mandeep Singh,Deccan Chargers,Punjab Kings,Punjab Kings,25,171,N
+297,2012,Mumbai,League,CH Gayle,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,9,142,N
+298,2012,Hyderabad,League,DA Warner,Deccan Chargers,Delhi Capitals,Delhi Capitals,9,188,N
+299,2012,Jaipur,League,BW Hilfenhaus,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4,127,N
+300,2012,Pune,League,CH Gayle,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,35,174,N
+301,2012,Kolkata,League,RG Sharma,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,27,183,N
+302,2012,Chennai,League,BW Hilfenhaus,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,9,115,N
+303,2012,Jaipur,League,A Chandila,Rajasthan Royals,Pune Warriors,Rajasthan Royals,45,171,N
+304,2012,Chandigarh,League,DJ Hussey,Punjab Kings,Deccan Chargers,Punjab Kings,4,191,N
+305,2012,Bangalore,League,AT Rayudu,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5,172,N
+306,2012,Kolkata,League,MEK Hussey,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5,159,N
+307,2012,Delhi,League,UT Yadav,Delhi Capitals,Punjab Kings,Delhi Capitals,5,137,N
+308,2012,Mumbai,League,SP Narine,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,32,141,N
+309,2012,Dharamsala,League,AC Gilchrist,Punjab Kings,Chennai Super Kings,Punjab Kings,6,121,N
+310,2012,Delhi,League,CH Gayle,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,21,216,N
+311,2012,Hyderabad,League,DW Steyn,Deccan Chargers,Rajasthan Royals,Deccan Chargers,5,127,N
+312,2012,Dharamsala,League,UT Yadav,Punjab Kings,Delhi Capitals,Delhi Capitals,6,142,N
+313,2012,Pune,League,Shakib Al Hasan,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,34,137,N
+314,2012,Hyderabad,League,DW Steyn,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,9,133,N
+315,2012,Jaipur,League,DR Smith,Rajasthan Royals,Mumbai Indians,Mumbai Indians,10,163,N
+316,2012,Pune,Qualifier 1,YK Pathan,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,18,163,N
+317,2012,Bangalore,Elimination Final,MS Dhoni,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,38,188,N
+318,2012,Chennai,Qualifier 2,M Vijay,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,86,223,N
+319,2012,Chennai,Final,MS Bisla,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,5,191,N
+320,2013,Kolkata,League,SP Narine,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,6,129,N
+321,2013,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2,157,N
+322,2013,Hyderabad,League,A Mishra,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,22,127,N
+323,2013,Delhi,League,R Dravid,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5,166,N
+324,2013,Chennai,League,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,9,149,N
+325,2013,Pune,League,M Vohra,Pune Warriors,Punjab Kings,Punjab Kings,8,100,N
+326,2013,Jaipur,League,SK Trivedi,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,19,145,N
+327,2013,Mumbai,League,KD Karthik,Mumbai Indians,Delhi Capitals,Mumbai Indians,44,210,N
+328,2013,Bangalore,League,V Kohli,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,7,162,N
+329,2013,Chandigarh,League,MEK Hussey,Punjab Kings,Chennai Super Kings,Chennai Super Kings,10,139,N
+330,2013,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,8,155,N
+331,2013,Pune,League,AJ Finch,Pune Warriors,Rajasthan Royals,Pune Warriors,7,146,N
+332,2013,Delhi,League,A Mishra,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,3,115,N
+333,2013,Mumbai,League,RG Sharma,Mumbai Indians,Pune Warriors,Mumbai Indians,41,184,N
+334,2013,Chennai,League,RA Jadeja,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,4,166,N
+335,2013,Kolkata,League,G Gambhir,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,48,181,N
+336,2013,Jaipur,League,JP Faulkner,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6,125,N
+337,2013,Chennai,League,SPD Smith,Chennai Super Kings,Pune Warriors,Pune Warriors,24,160,N
+338,2013,Chandigarh,League,MS Gony,Punjab Kings,Kolkata Knight Riders,Punjab Kings,4,158,N
+339,2013,Pune,League,A Mishra,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,11,120,N
+340,2013,Jaipur,League,AM Rahane,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,87,180,N
+341,2013,Delhi,League,MEK Hussey,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,86,170,N
+342,2013,Hyderabad,League,GH Vihari,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5,124,N
+343,2013,Kolkata,League,RA Jadeja,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,4,120,N
+344,2013,Bangalore,League,R Vinay Kumar,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7,118,N
+345,2013,Delhi,League,V Sehwag,Delhi Capitals,Mumbai Indians,Delhi Capitals,9,162,N
+346,2013,Chandigarh,League,DA Miller,Punjab Kings,Pune Warriors,Punjab Kings,7,186,N
+347,2013,Chennai,League,MEK Hussey,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5,186,N
+348,2013,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,130,264,N
+349,2013,Delhi,League,Harmeet Singh,Delhi Capitals,Punjab Kings,Punjab Kings,5,121,N
+350,2013,Kolkata,League,DR Smith,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5,160,N
+351,2013,Chennai,League,MS Dhoni,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,5,160,N
+352,2013,Kolkata,League,JH Kallis,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,6,150,N
+353,2013,Jaipur,League,JP Faulkner,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,8,145,N
+354,2013,Mumbai,League,DR Smith,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,58,195,N
+355,2013,Chennai,League,MEK Hussey,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,14,201,N
+356,2013,Raipur,League,DA Warner,Delhi Capitals,Pune Warriors,Delhi Capitals,15,165,N
+357,2013,Jaipur,League,SV Samson,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,4,172,N
+358,2013,Mumbai,League,RG Sharma,Mumbai Indians,Punjab Kings,Mumbai Indians,4,175,N
+359,2013,Pune,League,MS Dhoni,Pune Warriors,Chennai Super Kings,Chennai Super Kings,37,165,N
+360,2013,Hyderabad,League,I Sharma,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7,130,N
+361,2013,Raipur,League,DA Warner,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7,137,N
+362,2013,Chennai,League,SK Raina,Chennai Super Kings,Punjab Kings,Chennai Super Kings,15,187,N
+363,2013,Pune,League,AB de Villiers,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,17,188,N
+364,2013,Kolkata,League,YK Pathan,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8,133,N
+365,2013,Hyderabad,League,DJG Sammy,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,6,81,N
+366,2013,Mumbai,League,MG Johnson,Mumbai Indians,Chennai Super Kings,Mumbai Indians,60,140,N
+367,2013,Jaipur,League,AM Rahane,Rajasthan Royals,Pune Warriors,Rajasthan Royals,5,179,N
+368,2013,Chandigarh,League,DA Miller,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,6,191,N
+369,2013,Jaipur,League,AM Rahane,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,9,155,N
+370,2013,Mumbai,League,SR Tendulkar,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,65,171,N
+371,2013,Hyderabad,League,SK Raina,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,77,224,N
+372,2013,Chandigarh,League,KK Cooper,Punjab Kings,Rajasthan Royals,Rajasthan Royals,8,146,N
+373,2013,Pune,League,G Gambhir,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,46,153,N
+374,2013,Delhi,League,JD Unadkat,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,4,184,N
+375,2013,Pune,League,MG Johnson,Pune Warriors,Mumbai Indians,Mumbai Indians,5,113,N
+376,2013,Chandigarh,League,PA Patel,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,30,151,N
+377,2013,Ranchi,League,JH Kallis,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5,116,N
+378,2013,Jaipur,League,SR Watson,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,5,142,N
+379,2013,Mumbai,League,KA Pollard,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,7,179,N
+380,2013,Bangalore,League,AC Gilchrist,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7,175,N
+381,2013,Chennai,League,MS Dhoni,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,33,169,N
+382,2013,Ranchi,League,MK Pandey,Kolkata Knight Riders,Pune Warriors,Pune Warriors,7,171,N
+383,2013,Mumbai,League,AP Tare,Mumbai Indians,Rajasthan Royals,Mumbai Indians,14,167,N
+384,2013,Dharamsala,League,DA Miller,Punjab Kings,Delhi Capitals,Punjab Kings,7,172,N
+385,2013,Hyderabad,League,A Mishra,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,23,137,N
+386,2013,Dharamsala,League,Azhar Mahmood,Punjab Kings,Mumbai Indians,Punjab Kings,50,184,N
+387,2013,Bangalore,League,V Kohli,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,24,107,N
+388,2013,Pune,League,LJ Wright,Pune Warriors,Delhi Capitals,Pune Warriors,38,173,N
+389,2013,Hyderabad,League,PA Patel,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,5,131,N
+390,2013,Delhi,Qualifier 1,MEK Hussey,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,48,193,N
+391,2013,Delhi,Eliminator,BJ Hodge,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,4,133,N
+392,2013,Kolkata,Qualifier 2,Harbhajan Singh,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4,166,N
+393,2013,Kolkata,Final,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,23,149,N
+394,2014,Abu Dhabi,League,JH Kallis,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,41,164,N
+395,2014,Abu Dhabi,League,GJ Maxwell,Chennai Super Kings,Punjab Kings,Punjab Kings,6,206,N
+396,2014,Abu Dhabi,League,AM Rahane,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,4,134,N
+397,2014,Abu Dhabi,League,SK Raina,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,93,178,N
+398,2014,Abu Dhabi,League,PV Tambe,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,6,71,N
+399,2014,Abu Dhabi,League,Sandeep Sharma,Kolkata Knight Riders,Punjab Kings,Punjab Kings,23,133,N
+400,2014,Ranchi,League,RA Jadeja,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,34,149,N
+401,2014,Mumbai,League,CJ Anderson,Mumbai Indians,Punjab Kings,Mumbai Indians,5,169,N
+402,2014,Delhi,League,KK Nair,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,7,153,N
+403,2014,Bangalore,League,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,4,156,N
+404,2014,Ahmedabad,League,PV Tambe,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,10,171,N
+405,2014,Delhi,League,DR Smith,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,8,179,N
+406,2014,Mumbai,League,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,19,188,N
+407,2014,Delhi,League,G Gambhir,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,8,161,N
+408,2014,Cuttack,League,GJ Maxwell,Punjab Kings,Chennai Super Kings,Punjab Kings,44,232,N
+409,2014,Ahmedabad,League,B Kumar,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,32,135,N
+410,2014,Bangalore,League,Sandeep Sharma,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,32,199,N
+411,2014,Delhi,League,DW Steyn,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,8,43,N
+412,2014,Mumbai,League,DR Smith,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,4,158,N
+413,2014,Cuttack,League,G Gambhir,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,9,150,N
+414,2014,Bangalore,League,JP Faulkner,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,5,191,N
+415,2014,Hyderabad,League,AT Rayudu,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7,158,N
+416,2014,Ranchi,League,RA Jadeja,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5,149,N
+417,2014,Bangalore,League,Yuvraj Singh,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,16,187,N
+418,2014,Hyderabad,League,WP Saha,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6,206,N
+419,2014,Cuttack,League,RV Uthappa,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,6,142,N
+420,2014,Ahmedabad,League,AM Rahane,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,62,202,N
+421,2014,Ranchi,League,AB de Villiers,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5,139,N
+422,2014,Hyderabad,League,UT Yadav,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7,143,N
+423,2014,Ahmedabad,League,MEK Hussey,Rajasthan Royals,Mumbai Indians,Mumbai Indians,25,179,N
+424,2014,Delhi,League,AR Patel,Delhi Capitals,Punjab Kings,Punjab Kings,4,165,N
+425,2014,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,7,161,N
+426,2014,Kolkata,League,RV Uthappa,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,8,155,N
+427,2014,Chandigarh,League,LMP Simmons,Punjab Kings,Mumbai Indians,Mumbai Indians,7,157,N
+428,2014,Kolkata,League,RV Uthappa,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,30,196,N
+429,2014,Ranchi,League,DA Warner,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6,186,N
+430,2014,Mumbai,League,MEK Hussey,Mumbai Indians,Delhi Capitals,Mumbai Indians,15,174,N
+431,2014,Chandigarh,League,SE Marsh,Punjab Kings,Rajasthan Royals,Punjab Kings,16,180,N
+432,2014,Bangalore,League,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,8,155,N
+433,2014,Kolkata,League,YK Pathan,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4,161,N
+434,2014,Chandigarh,League,M Vohra,Punjab Kings,Delhi Capitals,Punjab Kings,7,116,N
+435,2014,Mumbai,League,CJ Anderson,Mumbai Indians,Rajasthan Royals,Mumbai Indians,5,190,N
+436,2014,Kolkata,Qualifier 1,UT Yadav,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,28,164,N
+437,2014,Mumbai,Eliminator,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7,174,N
+438,2014,Mumbai,Qualifier 2,V Sehwag,Chennai Super Kings,Punjab Kings,Punjab Kings,24,227,N
+439,2014,Bangalore,Final,MK Pandey,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3,200,N
+440,2015,Kolkata,League,M Morkel,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,7,169,N
+441,2015,Chennai,League,A Nehra,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,151,N
+442,2015,Pune,League,JP Faulkner,Punjab Kings,Rajasthan Royals,Rajasthan Royals,26,163,N
+443,2015,Chennai,League,BB McCullum,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,45,210,N
+444,2015,Kolkata,League,CH Gayle,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,3,178,N
+445,2015,Delhi,League,DJ Hooda,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,3,185,N
+446,2015,Mumbai,League,GJ Bailey,Mumbai Indians,Punjab Kings,Punjab Kings,18,178,N
+447,2015,Bangalore,League,DA Warner,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8,167,N
+448,2015,Ahmedabad,League,SPD Smith,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7,165,N
+449,2015,Pune,League,MA Agarwal,Punjab Kings,Delhi Capitals,Delhi Capitals,5,166,N
+450,2015,Visakhapatnam,League,AM Rahane,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,6,128,N
+451,2015,Mumbai,League,A Nehra,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,6,184,N
+452,2015,Visakhapatnam,League,JP Duminy,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,4,168,N
+453,2015,Pune,League,AD Russell,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,4,156,N
+454,2015,Ahmedabad,League,AM Rahane,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8,157,N
+455,2015,Bangalore,League,Harbhajan Singh,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,18,210,N
+456,2015,Delhi,League,UT Yadav,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6,147,N
+457,2015,Visakhapatnam,League,DA Warner,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,16,118,N
+458,2015,Bangalore,League,SK Raina,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,27,182,N
+459,2015,Delhi,League,SS Iyer,Delhi Capitals,Mumbai Indians,Delhi Capitals,37,191,N
+460,2015,Ahmedabad,League,MA Starc,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9,131,N
+461,2015,Mumbai,League,SL Malinga,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,20,158,N
+462,2015,Chennai,League,BB McCullum,Chennai Super Kings,Punjab Kings,Chennai Super Kings,97,193,N
+463,2015,Delhi,League,VR Aaron,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10,96,N
+464,2015,Chandigarh,League,TA Boult,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,20,151,N
+465,2015,Chennai,League,DJ Bravo,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,135,N
+466,2015,Kolkata,League,AD Russell,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,7,166,N
+467,2015,Delhi,League,NM Coulter-Nile,Delhi Capitals,Punjab Kings,Delhi Capitals,9,119,N
+468,2015,Mumbai,League,AT Rayudu,Mumbai Indians,Rajasthan Royals,Mumbai Indians,8,188,N
+469,2015,Bangalore,League,Mandeep Singh,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7,112,N
+470,2015,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,22,193,N
+471,2015,Chandigarh,League,LMP Simmons,Punjab Kings,Mumbai Indians,Mumbai Indians,23,173,N
+472,2015,Mumbai,League,AM Rahane,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,14,190,N
+473,2015,Chennai,League,SK Raina,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,24,149,N
+474,2015,Kolkata,League,UT Yadav,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,35,168,N
+475,2015,Mumbai,League,Harbhajan Singh,Mumbai Indians,Delhi Capitals,Mumbai Indians,5,153,N
+476,2015,Bangalore,League,CH Gayle,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,138,227,N
+477,2015,Kolkata,League,PP Chawla,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,13,172,N
+478,2015,Mumbai,League,EJG Morgan,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7,202,N
+479,2015,Chennai,League,HH Pandya,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6,159,N
+480,2015,Kolkata,League,AD Russell,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,1,184,N
+481,2015,Raipur,League,MC Henriques,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,6,164,N
+482,2015,Mumbai,League,AB de Villiers,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,39,236,N
+483,2015,Chennai,League,RA Jadeja,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,12,158,N
+484,2015,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5,186,N
+485,2015,Raipur,League,Z Khan,Delhi Capitals,Chennai Super Kings,Delhi Capitals,6,120,N
+486,2015,Chandigarh,League,AR Patel,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,22,107,N
+487,2015,Mumbai,League,HH Pandya,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,5,172,N
+488,2015,Hyderabad,League,V Kohli,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,6,81,N
+489,2015,Chandigarh,League,P Negi,Punjab Kings,Chennai Super Kings,Chennai Super Kings,7,131,N
+490,2015,Mumbai,League,SR Watson,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,9,200,N
+491,2015,Hyderabad,League,MJ McClenaghan,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,9,114,N
+492,2015,Mumbai,Qualifier 1,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,25,188,N
+493,2015,Pune,Eliminator,AB de Villiers,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,71,181,N
+494,2015,Ranchi,Qualifier 2,A Nehra,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,3,140,N
+495,2015,Kolkata,Final,RG Sharma,Mumbai Indians,Chennai Super Kings,Mumbai Indians,41,203,N
+496,2016,Mumbai,League,AM Rahane,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,9,122,N
+497,2016,Kolkata,League,AD Russell,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,9,99,N
+498,2016,Chandigarh,League,AJ Finch,Punjab Kings,Gujarat Lions,Gujarat Lions,5,162,N
+499,2016,Bangalore,League,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,45,228,N
+500,2016,Kolkata,League,RG Sharma,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,6,188,N
+501,2016,Rajkot,League,AJ Finch,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,7,164,N
+502,2016,Delhi,League,A Mishra,Delhi Capitals,Punjab Kings,Delhi Capitals,8,112,N
+503,2016,Hyderabad,League,G Gambhir,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8,143,N
+504,2016,Mumbai,League,AJ Finch,Mumbai Indians,Gujarat Lions,Gujarat Lions,3,144,N
+505,2016,Chandigarh,League,M Vohra,Punjab Kings,Rising Pune Supergiant,Punjab Kings,6,153,N
+506,2016,Bangalore,League,Q de Kock,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,7,192,N
+507,2016,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7,143,N
+508,2016,Chandigarh,League,RV Uthappa,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,6,139,N
+509,2016,Mumbai,League,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6,171,N
+510,2016,Rajkot,League,B Kumar,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,10,136,N
+511,2016,Pune,League,AB de Villiers,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,13,186,N
+512,2016,Delhi,League,SV Samson,Delhi Capitals,Mumbai Indians,Delhi Capitals,10,165,N
+513,2016,Hyderabad,League,Mustafizur Rahman,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5,144,N
+514,2016,Rajkot,League,V Kohli,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,6,181,N
+515,2016,Pune,League,SA Yadav,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,2,161,N
+516,2016,Chandigarh,League,PA Patel,Punjab Kings,Mumbai Indians,Mumbai Indians,25,190,N
+517,2016,Hyderabad,League,AB Dinda,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,34,61,N
+518,2016,Delhi,League,CH Morris,Delhi Capitals,Gujarat Lions,Gujarat Lions,1,173,N
+519,2016,Mumbai,League,RG Sharma,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6,175,N
+520,2016,Pune,League,DR Smith,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,3,196,N
+521,2016,Delhi,League,CR Brathwaite,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,27,187,N
+522,2016,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,15,195,N
+523,2016,Rajkot,League,AR Patel,Gujarat Lions,Punjab Kings,Punjab Kings,23,155,N
+524,2016,Pune,League,RG Sharma,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,8,160,N
+525,2016,Bangalore,League,AD Russell,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5,186,N
+526,2016,Rajkot,League,RR Pant,Gujarat Lions,Delhi Capitals,Delhi Capitals,8,150,N
+527,2016,Kolkata,League,AD Russell,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,7,165,N
+528,2016,Delhi,League,AM Rahane,Delhi Capitals,Rising Pune Supergiant,Rising Pune Supergiant,7,163,N
+529,2016,Hyderabad,League,B Kumar,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,5,127,N
+530,2016,Bangalore,League,V Kohli,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,7,192,N
+531,2016,Chandigarh,League,MP Stoinis,Punjab Kings,Delhi Capitals,Punjab Kings,9,182,N
+532,2016,Visakhapatnam,League,A Nehra,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,85,178,N
+533,2016,Kolkata,League,P Kumar,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,5,159,N
+534,2016,Chandigarh,League,SR Watson,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1,176,N
+535,2016,Visakhapatnam,League,A Zampa,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,4,138,N
+536,2016,Bangalore,League,KH Pandya,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,6,152,N
+537,2016,Hyderabad,League,CH Morris,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,7,147,N
+538,2016,Visakhapatnam,League,MP Stoinis,Mumbai Indians,Punjab Kings,Punjab Kings,7,125,N
+539,2016,Bangalore,League,AB de Villiers,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,144,249,N
+540,2016,Kolkata,League,YK Pathan,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,8,66,N
+541,2016,Chandigarh,League,HM Amla,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7,180,N
+542,2016,Visakhapatnam,League,KH Pandya,Mumbai Indians,Delhi Capitals,Mumbai Indians,80,207,N
+543,2016,Kolkata,League,V Kohli,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9,184,N
+544,2016,Visakhapatnam,League,AB Dinda,Rising Pune Supergiant,Delhi Capitals,Rising Pune Supergiant,19,58,N
+545,2016,Bangalore,League,V Kohli,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,82,203,N
+546,2016,Kanpur,League,DR Smith,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,6,125,N
+547,2016,Raipur,League,KK Nair,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6,159,N
+548,2016,Visakhapatnam,League,MS Dhoni,Rising Pune Supergiant,Punjab Kings,Rising Pune Supergiant,4,173,N
+549,2016,Kanpur,League,SK Raina,Gujarat Lions,Mumbai Indians,Gujarat Lions,6,173,N
+550,2016,Kolkata,League,YK Pathan,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,22,172,N
+551,2016,Raipur,League,V Kohli,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6,139,N
+552,2016,Bangalore,Qualifier 1,AB de Villiers,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,4,159,N
+553,2016,Delhi,Elimination Final,MC Henriques,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,22,163,N
+554,2016,Delhi,Qualifier 2,DA Warner,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,4,163,N
+555,2016,Bangalore,Final,BCJ Cutting,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8,209,N
+556,2017,Hyderabad,League,Yuvraj Singh,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,35,208,N
+557,2017,Pune,League,SPD Smith,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,7,185,N
+558,2017,Rajkot,League,CA Lynn,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,10,184,N
+559,2017,Indore,League,GJ Maxwell,Punjab Kings,Rising Pune Supergiant,Punjab Kings,6,164,N
+560,2017,Bengaluru,League,KM Jadhav,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,15,158,N
+561,2017,Hyderabad,League,Rashid Khan,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,9,136,N
+562,2017,Mumbai,League,N Rana,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,4,179,N
+563,2017,Indore,League,AR Patel,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,8,149,N
+564,2017,Pune,League,SV Samson,Rising Pune Supergiant,Delhi Capitals,Delhi Capitals,97,206,N
+565,2017,Mumbai,League,JJ Bumrah,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,4,159,N
+566,2017,Kolkata,League,SP Narine,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8,171,N
+567,2017,Bangalore,League,KA Pollard,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,4,143,N
+568,2017,Rajkot,League,AJ Tye,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,7,172,N
+569,2017,Kolkata,League,RV Uthappa,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,17,173,N
+570,2017,Delhi,League,CJ Anderson,Delhi Capitals,Punjab Kings,Delhi Capitals,51,189,N
+571,2017,Mumbai,League,N Rana,Mumbai Indians,Gujarat Lions,Mumbai Indians,6,177,N
+572,2017,Bangalore,League,BA Stokes,Royal Challengers Bangalore,Rising Pune Supergiant,Rising Pune Supergiant,27,162,N
+573,2017,Delhi,League,NM Coulter-Nile,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,4,169,N
+574,2017,Hyderabad,League,B Kumar,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5,160,N
+575,2017,Rajkot,League,CH Gayle,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,21,214,N
+576,2017,Hyderabad,League,KS Williamson,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15,192,N
+577,2017,Indore,League,JC Buttler,Punjab Kings,Mumbai Indians,Mumbai Indians,8,199,N
+578,2017,Kolkata,League,SK Raina,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,4,188,N
+579,2017,Mumbai,League,MJ McClenaghan,Mumbai Indians,Delhi Capitals,Mumbai Indians,14,143,N
+580,2017,Pune,League,MS Dhoni,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,6,177,N
+581,2017,Rajkot,League,HM Amla,Gujarat Lions,Punjab Kings,Punjab Kings,26,189,N
+582,2017,Kolkata,League,NM Coulter-Nile,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,82,132,N
+583,2017,Mumbai,League,BA Stokes,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,3,161,N
+584,2017,Pune,League,RV Uthappa,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,7,183,N
+585,2017,Bangalore,League,AJ Tye,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,7,135,N
+586,2017,Kolkata,League,G Gambhir,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,7,161,N
+587,2017,Chandigarh,League,Rashid Khan,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,26,208,N
+588,2017,Pune,League,LH Ferguson,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,61,158,N
+589,2017,Chandigarh,League,Sandeep Sharma,Punjab Kings,Delhi Capitals,Punjab Kings,10,68,N
+590,2017,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,48,210,N
+591,2017,Mumbai,League,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,5,163,N
+592,2017,Pune,League,BA Stokes,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,5,162,N
+593,2017,Delhi,League,Mohammed Shami,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6,186,N
+594,2017,Kolkata,League,RA Tripathi,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,4,156,N
+595,2017,Delhi,League,RR Pant,Delhi Capitals,Gujarat Lions,Delhi Capitals,7,209,N
+596,2017,Bangalore,League,Sandeep Sharma,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,19,139,N
+597,2017,Hyderabad,League,JD Unadkat,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,12,149,N
+598,2017,Delhi,League,LMP Simmons,Delhi Capitals,Mumbai Indians,Mumbai Indians,146,213,N
+599,2017,Bangalore,League,SP Narine,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6,159,N
+600,2017,Chandigarh,League,DR Smith,Punjab Kings,Gujarat Lions,Gujarat Lions,6,190,N
+601,2017,Hyderabad,League,S Dhawan,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7,139,N
+602,2017,Chandigarh,League,MM Sharma,Punjab Kings,Kolkata Knight Riders,Punjab Kings,14,168,N
+603,2017,Kanpur,League,SS Iyer,Gujarat Lions,Delhi Capitals,Delhi Capitals,2,196,N
+604,2017,Mumbai,League,WP Saha,Mumbai Indians,Punjab Kings,Punjab Kings,7,231,N
+605,2017,Delhi,League,KK Nair,Delhi Capitals,Rising Pune Supergiant,Delhi Capitals,7,169,N
+606,2017,Kanpur,League,Mohammed Siraj,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,8,155,N
+607,2017,Kolkata,League,AT Rayudu,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,174,N
+608,2017,Pune,League,JD Unadkat,Rising Pune Supergiant,Punjab Kings,Rising Pune Supergiant,9,74,N
+609,2017,Delhi,League,HV Patel,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10,162,N
+610,2017,Mumbai,Qualifier 1,Washington Sundar,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,20,163,N
+611,2017,Bangalore,Eliminator,NM Coulter-Nile,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7,48,N
+612,2017,Bangalore,Qualifier 2,KV Sharma,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6,108,N
+613,2017,Hyderabad,Final,KH Pandya,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,1,130,N
+614,2018,Mumbai,League,DJ Bravo,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,166,N
+615,2018,Chandigarh,League,KL Rahul,Delhi Capitals,Punjab Kings,Punjab Kings,6,167,N
+616,2018,Kolkata,League,SP Narine,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,4,177,N
+617,2018,Hyderabad,League,S Dhawan,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,9,126,N
+618,2018,Chennai,League,SW Billings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5,203,N
+619,2018,Jaipur,League,SV Samson,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,10,71,N
+620,2018,Hyderabad,League,Rashid Khan,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,1,148,N
+621,2018,Bengaluru,League,UT Yadav,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,4,156,N
+622,2018,Mumbai,League,JJ Roy,Mumbai Indians,Delhi Capitals,Delhi Capitals,7,195,N
+623,2018,Kolkata,League,B Stanlake,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,5,139,N
+624,2018,Bengaluru,League,SV Samson,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,19,218,N
+625,2018,Chandigarh,League,CH Gayle,Punjab Kings,Chennai Super Kings,Punjab Kings,4,198,N
+626,2018,Kolkata,League,N Rana,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,71,201,N
+627,2018,Mumbai,League,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,46,214,N
+628,2018,Jaipur,League,N Rana,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,7,161,N
+629,2018,Chandigarh,League,CH Gayle,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,15,194,N
+630,2018,Pune,League,SR Watson,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,64,205,N
+631,2018,Kolkata,League,KL Rahul,Kolkata Knight Riders,Punjab Kings,Punjab Kings,9,125,N
+632,2018,Bengaluru,League,AB de Villiers,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6,175,N
+633,2018,Hyderabad,League,AT Rayudu,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,4,183,N
+634,2018,Jaipur,League,JC Archer,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,3,168,N
+635,2018,Delhi,League,AS Rajpoot,Punjab Kings,Delhi Capitals,Punjab Kings,4,144,N
+636,2018,Mumbai,League,Rashid Khan,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31,119,N
+637,2018,Bengaluru,League,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,5,206,N
+638,2018,Hyderabad,League,AS Rajpoot,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,13,133,N
+639,2018,Delhi,League,SS Iyer,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,55,220,N
+640,2018,Pune,League,RG Sharma,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8,170,N
+641,2018,Jaipur,League,KS Williamson,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,11,152,N
+642,2018,Bengaluru,League,CA Lynn,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6,176,N
+643,2018,Pune,League,SR Watson,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,13,212,N
+644,2018,Bengaluru,League,TG Southee,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,14,168,N
+645,2018,Delhi,League,RR Pant,Delhi Capitals,Rajasthan Royals,Delhi Capitals,4,151,N
+646,2018,Kolkata,League,SP Narine,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,6,178,N
+647,2018,Indore,League,SA Yadav,Punjab Kings,Mumbai Indians,Mumbai Indians,6,175,N
+648,2018,Pune,League,RA Jadeja,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6,128,N
+649,2018,Hyderabad,League,Rashid Khan,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,7,164,N
+650,2018,Mumbai,League,HH Pandya,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,13,182,N
+651,2018,Indore,League,Mujeeb Ur Rahman,Rajasthan Royals,Punjab Kings,Punjab Kings,6,153,N
+652,2018,Hyderabad,League,KS Williamson,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,5,147,N
+653,2018,Jaipur,League,JC Buttler,Rajasthan Royals,Punjab Kings,Rajasthan Royals,15,159,N
+654,2018,Kolkata,League,Ishan Kishan,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,102,211,N
+655,2018,Delhi,League,S Dhawan,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,9,188,N
+656,2018,Jaipur,League,JC Buttler,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,4,177,N
+657,2018,Indore,League,SP Narine,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,31,246,N
+658,2018,Delhi,League,AB de Villiers,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,5,182,N
+659,2018,Pune,League,AT Rayudu,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,8,180,N
+660,2018,Mumbai,League,JC Buttler,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,7,169,N
+661,2018,Indore,League,UT Yadav,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,10,89,N
+662,2018,Kolkata,League,Kuldeep Yadav,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,6,143,N
+663,2018,Mumbai,League,JJ Bumrah,Mumbai Indians,Punjab Kings,Mumbai Indians,3,187,N
+664,2018,Bengaluru,League,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,14,219,N
+665,2018,Delhi,League,HV Patel,Delhi Capitals,Chennai Super Kings,Delhi Capitals,34,163,N
+666,2018,Jaipur,League,S Gopal,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,30,165,N
+667,2018,Hyderabad,League,CA Lynn,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,5,173,N
+668,2018,Delhi,League,A Mishra,Delhi Capitals,Mumbai Indians,Delhi Capitals,11,175,N
+669,2018,Pune,League,L Ngidi,Punjab Kings,Chennai Super Kings,Chennai Super Kings,5,154,N
+670,2018,Mumbai,Qualifier 1,F du Plessis,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2,140,N
+671,2018,Kolkata,Eliminator,AD Russell,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,25,170,N
+672,2018,Kolkata,Qualifier 2,Rashid Khan,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,14,175,N
+673,2018,Mumbai,Final,SR Watson,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,8,179,N
+674,2019,Chennai,League,Harbhajan Singh,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,7,71,N
+675,2019,Kolkata,League,AD Russell,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,6,182,N
+676,2019,Mumbai,League,RR Pant,Delhi Capitals,Mumbai Indians,Delhi Capitals,37,214,N
+677,2019,Jaipur,League,CH Gayle,Punjab Kings,Rajasthan Royals,Punjab Kings,14,185,N
+678,2019,Delhi,League,SR Watson,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,6,148,N
+679,2019,Kolkata,League,AD Russell,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,28,219,N
+680,2019,Bengaluru,League,JJ Bumrah,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6,188,N
+681,2019,Hyderabad,League,Rashid Khan,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,5,199,N
+682,2019,Chandigarh,League,MA Agarwal,Mumbai Indians,Punjab Kings,Punjab Kings,8,177,N
+683,2019,Hyderabad,League,JM Bairstow,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,118,232,N
+684,2019,Chennai,League,MS Dhoni,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8,176,N
+685,2019,Chandigarh,League,SM Curran,Punjab Kings,Delhi Capitals,Punjab Kings,14,167,N
+686,2019,Jaipur,League,S Gopal,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7,159,N
+687,2019,Mumbai,League,HH Pandya,Mumbai Indians,Chennai Super Kings,Mumbai Indians,37,171,N
+688,2019,Delhi,League,JM Bairstow,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,5,130,N
+689,2019,Bengaluru,League,AD Russell,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5,206,N
+690,2019,Chennai,League,Harbhajan Singh,Chennai Super Kings,Punjab Kings,Chennai Super Kings,22,161,N
+691,2019,Hyderabad,League,AS Joseph,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,40,137,N
+692,2019,Bengaluru,League,K Rabada,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,4,150,N
+693,2019,Jaipur,League,HF Gurney,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,8,140,N
+694,2019,Chandigarh,League,KL Rahul,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6,151,N
+695,2019,Chennai,League,DL Chahar,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,7,109,N
+696,2019,Mumbai,League,KA Pollard,Punjab Kings,Mumbai Indians,Mumbai Indians,3,198,N
+697,2019,Jaipur,League,MS Dhoni,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4,152,N
+698,2019,Kolkata,League,S Dhawan,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,7,179,N
+699,2019,Mumbai,League,JC Buttler,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,4,188,N
+700,2019,Chandigarh,League,AB de Villiers,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,8,174,N
+701,2019,Kolkata,League,Imran Tahir,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5,162,N
+702,2019,Hyderabad,League,KMA Paul,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,39,156,N
+703,2019,Mumbai,League,SL Malinga,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5,172,N
+704,2019,Chandigarh,League,R Ashwin,Punjab Kings,Rajasthan Royals,Punjab Kings,12,183,N
+705,2019,Hyderabad,League,DA Warner,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6,133,N
+706,2019,Delhi,League,HH Pandya,Mumbai Indians,Delhi Capitals,Mumbai Indians,40,169,N
+707,2019,Kolkata,League,V Kohli,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,10,214,N
+708,2019,Jaipur,League,SPD Smith,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,5,162,N
+709,2019,Delhi,League,SS Iyer,Punjab Kings,Delhi Capitals,Delhi Capitals,5,164,N
+710,2019,Hyderabad,League,KK Ahmed,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,9,160,N
+711,2019,Bengaluru,League,PA Patel,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,162,N
+712,2019,Jaipur,League,RR Pant,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6,192,N
+713,2019,Chennai,League,SR Watson,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,6,176,N
+714,2019,Bengaluru,League,AB de Villiers,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,17,203,N
+715,2019,Kolkata,League,VR Aaron,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,3,176,N
+716,2019,Chennai,League,RG Sharma,Mumbai Indians,Chennai Super Kings,Mumbai Indians,46,156,N
+717,2019,Jaipur,League,JD Unadkat,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,7,161,N
+718,2019,Delhi,League,S Dhawan,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,16,188,N
+719,2019,Kolkata,League,AD Russell,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,34,233,N
+720,2019,Hyderabad,League,DA Warner,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,45,213,N
+721,2019,Chennai,League,MS Dhoni,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,80,180,N
+722,2019,Chandigarh,League,Shubman Gill,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,7,184,N
+723,2019,Delhi,League,A Mishra,Rajasthan Royals,Delhi Capitals,Delhi Capitals,5,116,N
+724,2019,Bengaluru,League,SO Hetmyer,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,4,176,N
+725,2019,Chandigarh,League,KL Rahul,Chennai Super Kings,Punjab Kings,Punjab Kings,6,171,N
+726,2019,Mumbai,League,HH Pandya,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,134,N
+727,2019,Chennai,Qualifier 1,SA Yadav,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6,132,N
+728,2019,Visakhapatnam,Eliminator,RR Pant,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,2,163,N
+729,2019,Visakhapatnam,Qualifier 2,F du Plessis,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,6,148,N
+730,2019,Hyderabad,Final,JJ Bumrah,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,150,N
+731,2020,Abu Dhabi,League,AT Rayudu,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,5,163,N
+732,2020,Abu Dhabi,League,RG Sharma,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,49,196,N
+733,2020,Abu Dhabi,League,Shubman Gill,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7,143,N
+734,2020,Abu Dhabi,League,Rashid Khan,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15,163,N
+735,2020,Abu Dhabi,League,KA Pollard,Mumbai Indians,Punjab Kings,Mumbai Indians,48,192,N
+736,2020,Abu Dhabi,League,YS Chahal,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,8,155,N
+737,2020,Abu Dhabi,League,SA Yadav,Mumbai Indians,Rajasthan Royals,Mumbai Indians,57,194,N
+738,2020,Abu Dhabi,League,RA Tripathi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10,168,N
+739,2020,Abu Dhabi,League,KD Karthik,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,2,165,N
+740,2020,Abu Dhabi,League,Q de Kock,Delhi Capitals,Mumbai Indians,Mumbai Indians,5,163,N
+741,2020,Abu Dhabi,League,Q de Kock,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,8,149,N
+742,2020,Abu Dhabi,League,JC Buttler,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,7,126,N
+743,2020,Abu Dhabi,League,Mohammed Siraj,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,8,85,N
+744,2020,Abu Dhabi,League,CV Varun,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,59,195,N
+745,2020,Abu Dhabi,League,BA Stokes,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,8,196,N
+746,2020,Abu Dhabi,League,SA Yadav,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5,165,N
+747,2020,Abu Dhabi,League,BA Stokes,Punjab Kings,Rajasthan Royals,Rajasthan Royals,7,186,N
+748,2020,Abu Dhabi,League,RD Gaikwad,Punjab Kings,Chennai Super Kings,Chennai Super Kings,9,154,N
+749,2020,Abu Dhabi,League,A Nortje,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6,153,N
+750,2020,Abu Dhabi,Eliminator,KS Williamson,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,6,132,N
+751,2020,Abu Dhabi,Qualifier 2,MP Stoinis,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,17,190,N
+752,2021,Chennai,League,HV Patel,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2,160,N
+753,2021,Mumbai,League,S Dhawan,Chennai Super Kings,Delhi Capitals,Delhi Capitals,7,189,N
+754,2021,Chennai,League,N Rana,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,10,188,N
+755,2021,Mumbai,League,SV Samson,Punjab Kings,Rajasthan Royals,Punjab Kings,4,222,N
+756,2021,Chennai,League,RD Chahar,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,10,153,N
+757,2021,Chennai,League,GJ Maxwell,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,6,150,N
+758,2021,Mumbai,League,JD Unadkat,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,3,148,N
+759,2021,Mumbai,League,DL Chahar,Punjab Kings,Chennai Super Kings,Chennai Super Kings,6,107,N
+760,2021,Chennai,League,KA Pollard,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,13,151,N
+761,2021,Chennai,League,AB de Villiers,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,38,205,N
+762,2021,Mumbai,League,S Dhawan,Punjab Kings,Delhi Capitals,Delhi Capitals,6,196,N
+763,2021,Mumbai,League,MM Ali,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,45,189,N
+764,2021,Chennai,League,A Mishra,Mumbai Indians,Delhi Capitals,Delhi Capitals,6,138,N
+765,2021,Chennai,League,JM Bairstow,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,9,121,N
+766,2021,Mumbai,League,F du Plessis,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,18,221,N
+767,2021,Mumbai,League,D Padikkal,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,10,178,N
+768,2021,Chennai,League,KL Rahul,Mumbai Indians,Punjab Kings,Punjab Kings,9,132,N
+769,2021,Mumbai,League,CH Morris,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,6,134,N
+770,2021,Mumbai,League,RA Jadeja,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,69,192,N
+771,2021,Ahmedabad,League,EJG Morgan,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,5,124,N
+772,2021,Ahmedabad,League,AB de Villiers,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,172,N
+773,2021,Delhi,League,RD Gaikwad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,7,172,N
+774,2021,Delhi,League,Q de Kock,Rajasthan Royals,Mumbai Indians,Mumbai Indians,7,172,N
+775,2021,Ahmedabad,League,PP Shaw,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,7,155,N
+776,2021,Ahmedabad,League,Harpreet Brar,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,34,180,N
+777,2021,Delhi,League,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,4,219,N
+778,2021,Delhi,League,JC Buttler,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,55,221,N
+779,2021,Ahmedabad,League,MA Agarwal,Punjab Kings,Delhi Capitals,Delhi Capitals,7,167,N
+780,2021,Dubai,League,RD Gaikwad,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20,157,N
+781,2021,Abu Dhabi,League,CV Varun,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,9,93,N
+782,2021,Dubai,League,Kartik Tyagi,Rajasthan Royals,Punjab Kings,Rajasthan Royals,2,186,N
+783,2021,Dubai,League,A Nortje,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,8,135,N
+784,2021,Abu Dhabi,League,SP Narine,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,7,156,N
+785,2021,Sharjah,League,DJ Bravo,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6,157,N
+786,2021,Abu Dhabi,League,SS Iyer,Delhi Capitals,Rajasthan Royals,Delhi Capitals,33,155,N
+787,2021,Sharjah,League,JO Holder,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,5,126,N
+788,2021,Abu Dhabi,League,RA Jadeja,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,2,172,N
+789,2021,Dubai,League,GJ Maxwell,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,54,166,N
+790,2021,Dubai,League,JJ Roy,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7,165,N
+791,2021,Sharjah,League,SP Narine,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,3,128,N
+792,2021,Abu Dhabi,League,KA Pollard,Punjab Kings,Mumbai Indians,Mumbai Indians,6,136,N
+793,2021,Dubai,League,YS Chahal,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,7,150,N
+794,2021,Sharjah,League,JR Hazlewood,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,6,135,N
+795,2021,Dubai,League,KL Rahul,Kolkata Knight Riders,Punjab Kings,Punjab Kings,5,166,N
+796,2021,Abu Dhabi,League,RD Gaikwad,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,7,190,N
+797,2021,Sharjah,League,AR Patel,Mumbai Indians,Delhi Capitals,Delhi Capitals,4,130,N
+798,2021,Sharjah,League,GJ Maxwell,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,6,165,N
+799,2021,Dubai,League,Shubman Gill,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,6,116,N
+800,2021,Dubai,League,AR Patel,Chennai Super Kings,Delhi Capitals,Delhi Capitals,3,137,N
+801,2021,Sharjah,League,NM Coulter-Nile,Rajasthan Royals,Mumbai Indians,Mumbai Indians,8,91,N
+802,2021,Abu Dhabi,League,KS Williamson,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,4,142,N
+803,2021,Dubai,League,KL Rahul,Chennai Super Kings,Punjab Kings,Punjab Kings,6,135,N
+804,2021,Sharjah,League,Shivam Mavi,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,86,172,N
+805,2021,Abu Dhabi,League,Ishan Kishan,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,42,236,N
+806,2021,Dubai,League,KS Bharat,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,7,165,N
+807,2021,Dubai,Qualifier 1,RD Gaikwad,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,4,173,N
+808,2021,Sharjah,Eliminator,SP Narine,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,4,139,N
+809,2021,Sharjah,Qualifier 2,VR Iyer,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,3,136,N
+810,2021,Dubai,Final,F du Plessis,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,27,193,N
+811,2022,Mumbai,League,UT Yadav,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,6,132,N
+812,2022,Mumbai,League,Kuldeep Yadav,Mumbai Indians,Delhi Capitals,Delhi Capitals,4,178,N
+813,2022,Mumbai,League,OF Smith,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,5,206,N
+814,2022,Mumbai,League,Mohammed Shami,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,5,159,N
+815,2022,Pune,League,SV Samson,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,61,211,N
+816,2022,Mumbai,League,PWH de Silva,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,3,129,N
+817,2022,Mumbai,League,E Lewis,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,6,211,N
+818,2022,Mumbai,League,UT Yadav,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,6,138,N
+819,2022,Mumbai,League,JC Buttler,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,23,194,N
+820,2022,Pune,League,LH Ferguson,Gujarat Titans,Delhi Capitals,Gujarat Titans,14,172,N
+821,2022,Mumbai,League,LS Livingstone,Punjab Kings,Chennai Super Kings,Punjab Kings,54,181,N
+822,2022,Mumbai,League,Avesh Khan,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,12,170,N
+823,2022,Mumbai,League,KD Karthik,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,4,170,N
+824,2022,Pune,League,PJ Cummins,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,5,162,N
+825,2022,Mumbai,League,Q de Kock,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,6,150,N
+826,2022,Mumbai,League,Shubman Gill,Punjab Kings,Gujarat Titans,Gujarat Titans,6,190,N
+827,2022,Mumbai,League,Abhishek Sharma,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,8,155,N
+828,2022,Pune,League,Anuj Rawat,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,7,152,N
+829,2022,Mumbai,League,Kuldeep Yadav,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,44,216,N
+830,2022,Mumbai,League,YS Chahal,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,3,166,N
+831,2022,Mumbai,League,KS Williamson,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,8,163,N
+832,2022,Mumbai,League,S Dube,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,23,217,N
+833,2022,Pune,League,MA Agarwal,Punjab Kings,Mumbai Indians,Punjab Kings,12,199,N
+834,2022,Mumbai,League,HH Pandya,Gujarat Titans,Rajasthan Royals,Gujarat Titans,37,193,N
+835,2022,Mumbai,League,RA Tripathi,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,7,176,N
+836,2022,Mumbai,League,KL Rahul,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,18,200,N
+837,2022,Mumbai,League,KD Karthik,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,16,190,N
+838,2022,Mumbai,League,Umran Malik,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7,152,N
+839,2022,Pune,League,DA Miller,Chennai Super Kings,Gujarat Titans,Gujarat Titans,3,170,N
+840,2022,Mumbai,League,YS Chahal,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,7,218,N
+841,2022,Mumbai,League,F du Plessis,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,18,182,N
+842,2022,Mumbai,League,Kuldeep Yadav,Punjab Kings,Delhi Capitals,Delhi Capitals,9,116,N
+843,2022,Navi Mumbai,League,Mukesh Choudhary,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,3,156,N
+844,2022,Mumbai,League,JC Buttler,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,15,223,N
+845,2022,Navi Mumbai,League,Rashid Khan,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,8,157,N
+846,2022,Mumbai,League,M Jansen,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,9,69,N
+847,2022,Mumbai,League,KL Rahul,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,36,169,N
+848,2022,Mumbai,League,S Dhawan,Punjab Kings,Chennai Super Kings,Punjab Kings,11,188,N
+849,2022,Pune,League,R Parag,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,29,145,N
+850,2022,Mumbai,League,Umran Malik,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,5,196,N
+851,2022,Mumbai,League,Kuldeep Yadav,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,4,147,N
+852,2022,Pune,League,KH Pandya,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,20,154,N
+853,2022,Mumbai,League,R Tewatia,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,6,171,N
+854,2022,Navi Mumbai,League,SA Yadav,Rajasthan Royals,Mumbai Indians,Mumbai Indians,5,159,N
+855,2022,Mumbai,League,Mohsin Khan,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,6,196,N
+856,2022,Pune,League,RD Gaikwad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,13,203,N
+857,2022,Mumbai,League,RK Singh,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,7,153,N
+858,2022,Navi Mumbai,League,K Rabada,Gujarat Titans,Punjab Kings,Punjab Kings,8,144,N
+859,2022,Pune,League,HV Patel,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,13,174,N
+860,2022,Mumbai,League,DA Warner,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,21,208,N
+861,2022,Mumbai,League,TH David,Mumbai Indians,Gujarat Titans,Mumbai Indians,5,178,N
+862,2022,Mumbai,League,YBK Jaiswal,Punjab Kings,Rajasthan Royals,Rajasthan Royals,6,190,N
+863,2022,Pune,League,Avesh Khan,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,75,177,N
+864,2022,Mumbai,League,PWH de Silva,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,67,193,N
+865,2022,Navi Mumbai,League,DP Conway,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,91,209,N
+866,2022,Navi Mumbai,League,JJ Bumrah,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,52,166,N
+867,2022,Pune,League,Shubman Gill,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,62,145,N
+868,2022,Navi Mumbai,League,MR Marsh,Rajasthan Royals,Delhi Capitals,Delhi Capitals,8,161,N
+869,2022,Mumbai,League,DR Sams,Chennai Super Kings,Mumbai Indians,Mumbai Indians,5,98,N
+870,2022,Mumbai,League,JM Bairstow,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,54,210,N
+871,2022,Pune,League,AD Russell,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,54,178,N
+872,2022,Mumbai,League,WP Saha,Chennai Super Kings,Gujarat Titans,Gujarat Titans,7,134,N
+873,2022,Mumbai,League,TA Boult,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,24,179,N
+874,2022,Navi Mumbai,League,SN Thakur,Delhi Capitals,Punjab Kings,Delhi Capitals,17,160,N
+875,2022,Mumbai,League,RA Tripathi,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,3,194,N
+876,2022,Navi Mumbai,League,Q de Kock,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,2,211,N
+877,2022,Mumbai,League,V Kohli,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,8,169,N
+878,2022,Mumbai,League,R Ashwin,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,5,151,N
+879,2022,Mumbai,League,JJ Bumrah,Delhi Capitals,Mumbai Indians,Mumbai Indians,5,160,N
+880,2022,Mumbai,League,Harpreet Brar,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,5,158,N
+881,2022,Kolkata,Qualifier 1,DA Miller,Rajasthan Royals,Gujarat Titans,Gujarat Titans,7,189,N
+882,2022,Kolkata,Eliminator,RM Patidar,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,14,208,N
+883,2022,Ahmedabad,Qualifier 2,JC Buttler,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7,158,N
+884,2022,Ahmedabad,Final,HH Pandya,Rajasthan Royals,Gujarat Titans,Gujarat Titans,7,131,N
+885,2023,Ahmedabad,League,Rashid Khan,Chennai Super Kings,Gujarat Titans,Gujarat Titans,5,179,N
+886,2023,Chandigarh,League,Arshdeep Singh,Punjab Kings,Kolkata Knight Riders,Punjab Kings,7,154,N
+887,2023,Lucknow,League,MA Wood,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,50,194,N
+888,2023,Hyderabad,League,JC Buttler,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,72,204,N
+889,2023,Bengaluru,League,F du Plessis,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,8,172,N
+890,2023,Chennai,League,MM Ali,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,12,218,N
+891,2023,Delhi,League,B Sai Sudharsan,Delhi Capitals,Gujarat Titans,Gujarat Titans,6,163,N
+892,2023,Guwahati,League,NT Ellis,Punjab Kings,Rajasthan Royals,Punjab Kings,5,198,N
+893,2023,Kolkata,League,SN Thakur,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,81,205,N
+894,2023,Lucknow,League,KH Pandya,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,5,122,N
+895,2023,Guwahati,League,YBK Jaiswal,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,57,200,N
+896,2023,Mumbai,League,RA Jadeja,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,7,158,N
+897,2023,Ahmedabad,League,RK Singh,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,3,205,N
+898,2023,Hyderabad,League,S Dhawan,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,8,144,N
+899,2023,Bengaluru,League,N Pooran,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,1,213,N
+900,2023,Delhi,League,RG Sharma,Delhi Capitals,Mumbai Indians,Mumbai Indians,6,173,N
+901,2023,Chennai,League,R Ashwin,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,3,176,N
+902,2023,Chandigarh,League,MM Sharma,Punjab Kings,Gujarat Titans,Gujarat Titans,6,154,N
+903,2023,Kolkata,League,HC Brook,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,23,229,N
+904,2023,Bengaluru,League,V Kohli,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,23,175,N
+905,2023,Lucknow,League,Sikandar Raza,Lucknow Super Giants,Punjab Kings,Punjab Kings,2,160,N
+906,2023,Mumbai,League,VR Iyer,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5,186,N
+907,2023,Ahmedabad,League,SO Hetmyer,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,3,178,N
+908,2023,Bengaluru,League,DP Conway,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,8,227,N
+909,2023,Hyderabad,League,C Green,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,14,193,N
+910,2023,Jaipur,League,MP Stoinis,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,10,155,N
+911,2023,Chandigarh,League,Mohammed Siraj,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,24,175,N
+912,2023,Delhi,League,I Sharma,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,4,128,N
+913,2023,Chennai,League,RA Jadeja,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,7,135,N
+914,2023,Lucknow,League,MM Sharma,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,7,136,N
+915,2023,Mumbai,League,SM Curran,Punjab Kings,Mumbai Indians,Punjab Kings,13,215,N
+916,2023,Bengaluru,League,GJ Maxwell,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7,190,N
+917,2023,Kolkata,League,AM Rahane,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,49,236,N
+918,2023,Hyderabad,League,AR Patel,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,7,145,N
+919,2023,Ahmedabad,League,A Manohar,Gujarat Titans,Mumbai Indians,Gujarat Titans,55,208,N
+920,2023,Bengaluru,League,CV Varun,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,21,201,N
+921,2023,Jaipur,League,YBK Jaiswal,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,32,203,N
+922,2023,Chandigarh,League,MP Stoinis,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,56,258,N
+923,2023,Kolkata,League,J Little,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,7,180,N
+924,2023,Delhi,League,MR Marsh,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,9,198,N
+925,2023,Chennai,League,DP Conway,Chennai Super Kings,Punjab Kings,Punjab Kings,4,201,N
+926,2023,Mumbai,League,YBK Jaiswal,Rajasthan Royals,Mumbai Indians,Mumbai Indians,6,213,N
+927,2023,Lucknow,League,F du Plessis,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,18,127,N
+928,2023,Ahmedabad,League,Mohammed Shami,Delhi Capitals,Gujarat Titans,Delhi Capitals,5,131,N
+929,2023,Chandigarh,League,Ishan Kishan,Punjab Kings,Mumbai Indians,Mumbai Indians,6,215,N
+930,2023,Hyderabad,League,CV Varun,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,5,172,N
+931,2023,Jaipur,League,Rashid Khan,Rajasthan Royals,Gujarat Titans,Gujarat Titans,9,119,N
+932,2023,Chennai,League,M Pathirana,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,6,140,N
+933,2023,Delhi,League,PD Salt,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,7,182,N
+934,2023,Ahmedabad,League,Shubman Gill,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,56,228,N
+935,2023,Jaipur,League,GD Phillips,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,4,215,N
+936,2023,Kolkata,League,AD Russell,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,5,180,N
+937,2023,Mumbai,League,SA Yadav,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,6,200,N
+938,2023,Chennai,League,RA Jadeja,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,27,168,N
+939,2023,Kolkata,League,YBK Jaiswal,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,9,150,N
+940,2023,Mumbai,League,SA Yadav,Mumbai Indians,Gujarat Titans,Mumbai Indians,27,219,N
+941,2023,Hyderabad,League,PN Mankad,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,7,183,N
+942,2023,Delhi,League,P Simran Singh,Punjab Kings,Delhi Capitals,Punjab Kings,31,168,N
+943,2023,Jaipur,League,WD Parnell,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,112,172,N
+944,2023,Chennai,League,RK Singh,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,6,145,N
+945,2023,Ahmedabad,League,Shubman Gill,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,34,189,N
+946,2023,Lucknow,League,MP Stoinis,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,5,178,N
+947,2023,Dharamsala,League,RR Rossouw,Delhi Capitals,Punjab Kings,Delhi Capitals,15,214,N
+948,2023,Hyderabad,League,V Kohli,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,8,187,N
+949,2023,Dharamsala,League,D Padikkal,Punjab Kings,Rajasthan Royals,Rajasthan Royals,4,188,N
+950,2023,Delhi,League,RD Gaikwad,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,77,224,N
+951,2023,Kolkata,League,N Pooran,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,1,177,N
+952,2023,Mumbai,League,C Green,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,8,201,N
+953,2023,Bengaluru,League,Shubman Gill,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,6,198,N
+954,2023,Chennai,Qualifier 1,RD Gaikwad,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,15,173,N
+955,2023,Chennai,Eliminator,Akash Madhwal,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,81,183,N
+956,2023,Ahmedabad,Qualifier 2,Shubman Gill,Gujarat Titans,Mumbai Indians,Gujarat Titans,62,234,N
+957,2023,Ahmedabad,Final,DP Conway,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,5,171,N
+958,2024,Chennai,League,Mustafizur Rahman,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6,174,N
+959,2024,Mohali,League,SM Curran,Delhi Capitals,Punjab Kings,Punjab Kings,4,175,N
+960,2024,Kolkata,League,AD Russell,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4,209,N
+961,2024,Jaipur,League,SV Samson,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,20,194,N
+962,2024,Ahmedabad,League,B Sai Sudharsan,Gujarat Titans,Mumbai Indians,Gujarat Titans,6,169,N
+963,2024,Bengaluru,League,V Kohli,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,4,177,N
+964,2024,Chennai,League,S Dube,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,63,207,N
+965,2024,Hyderabad,League,Abhishek Sharma,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31,278,N
+966,2024,Jaipur,League,R Parag,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,12,186,N
+967,2024,Bengaluru,League,SP Narine,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,7,183,N
+968,2024,Lucknow,League,MP Yadav,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,21,200,N
+969,2024,Ahmedabad,League,MM Sharma,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,7,163,N
+970,2024,Visakhapatnam,League,KK Ahmed,Delhi Capitals,Chennai Super Kings,Delhi Capitals,20,192,N
+971,2024,Mumbai,League,TA Boult,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,6,126,N
+972,2024,Bengaluru,League,MP Yadav,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,28,182,N
+973,2024,Visakhapatnam,League,SP Narine,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,106,273,N
+974,2024,Ahmedabad,League,Shashank Singh,Gujarat Titans,Punjab Kings,Punjab Kings,3,200,N
+975,2024,Hyderabad,League,Abhishek Sharma,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6,166,N
+976,2024,Jaipur,League,JC Buttler,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,6,184,N
+977,2024,Mumbai,League,R Shepherd,Mumbai Indians,Delhi Capitals,Mumbai Indians,29,235,N
+978,2024,Lucknow,League,Yash Thakur,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33,164,N
+979,2024,Chennai,League,RA Jadeja,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,7,138,N
+980,2024,Mohali,League,Nithish Kumar Reddy,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,2,183,N
+981,2024,Jaipur,League,Rashid Khan,Rajasthan Royals,Gujarat Titans,Gujarat Titans,3,197,N
+982,2024,Mumbai,League,JJ Bumrah,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,7,197,N
+983,2024,Lucknow,League,Kuldeep Yadav,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,6,168,N
+984,2024,Mohali,League,SO Hetmyer,Punjab Kings,Rajasthan Royals,Rajasthan Royals,3,148,N
+985,2024,Kolkata,League,PD Salt,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,8,162,N
+986,2024,Mumbai,League,M Pathirana,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20,207,N
+987,2024,Bengaluru,League,TM Head,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,25,288,N
+988,2024,Kolkata,League,JC Buttler,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,2,224,N
+989,2024,Ahmedabad,League,RR Pant,Gujarat Titans,Delhi Capitals,Delhi Capitals,6,90,N
+990,2024,Mohali,League,JJ Bumrah,Mumbai Indians,Punjab Kings,Mumbai Indians,9,193,N
+991,2024,Lucknow,League,KL Rahul,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,8,177,N
+992,2024,Delhi,League,TM Head,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,67,267,N
+993,2024,Kolkata,League,AD Russell,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,223,N
+994,2024,Mohali,League,R Sai Kishore,Punjab Kings,Gujarat Titans,Gujarat Titans,3,143,N
+995,2024,Jaipur,League,Sandeep Sharma,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,9,180,N
+996,2024,Chennai,League,MP Stoinis,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,6,211,N
+997,2024,Delhi,League,RR Pant,Delhi Capitals,Gujarat Titans,Delhi Capitals,4,225,N
+998,2024,Hyderabad,League,RM Patidar,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,35,207,N
+999,2024,Kolkata,League,JM Bairstow,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8,262,N
+1000,2024,Delhi,League,J Fraser-McGurk,Delhi Capitals,Mumbai Indians,Delhi Capitals,10,258,N
+1001,2024,Lucknow,League,SV Samson,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,7,197,N
+1002,2024,Ahmedabad,League,WG Jacks,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,9,201,N
+1003,2024,Chennai,League,RD Gaikwad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,78,213,N
+1004,2024,Kolkata,League,CV Varun,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,7,154,N
+1005,2024,Lucknow,League,MP Stoinis,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,4,145,N
+1006,2024,Chennai,League,Harpreet Brar,Chennai Super Kings,Punjab Kings,Punjab Kings,7,163,N
+1007,2024,Hyderabad,League,B Kumar,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1,202,N
+1008,2024,Mumbai,League,VR Iyer,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,24,170,N
+1009,2024,Bengaluru,League,Mohammed Siraj,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,4,148,N
+1010,2024,Dharamsala,League,RA Jadeja,Chennai Super Kings,Punjab Kings,Chennai Super Kings,28,168,N
+1011,2024,Lucknow,League,SP Narine,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,98,236,N
+1012,2024,Mumbai,League,SA Yadav,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7,174,N
+1013,2024,Delhi,League,Kuldeep Yadav,Delhi Capitals,Rajasthan Royals,Delhi Capitals,20,222,N
+1014,2024,Hyderabad,League,TM Head,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,10,166,N
+1015,2024,Dharamsala,League,V Kohli,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,60,242,N
+1016,2024,Ahmedabad,League,Shubman Gill,Gujarat Titans,Chennai Super Kings,Gujarat Titans,35,232,N
+1017,2024,Kolkata,League,CV Varun,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,18,158,N
+1018,2024,Chennai,League,Simarjeet Singh,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,5,142,N
+1019,2024,Bengaluru,League,C Green,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,47,188,N
+1020,2024,Delhi,League,I Sharma,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,19,209,N
+1021,2024,Guwahati,League,SM Curran,Rajasthan Royals,Punjab Kings,Punjab Kings,5,145,N
+1022,2024,Mumbai,League,N Pooran,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,18,215,N
+1023,2024,Bengaluru,League,F du Plessis,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,27,219,N
+1024,2024,Hyderabad,League,Abhishek Sharma,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,4,215,N
+1025,2024,Ahmedabad,Qualifier 1,MA Starc,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8,160,N
+1026,2024,Ahmedabad,Eliminator,R Ashwin,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,4,173,N
+1027,2024,Chennai,Qualifier 2,Shahbaz Ahmed,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,36,176,N
+1028,2024,Chennai,Final,MA Starc,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8,114,N
